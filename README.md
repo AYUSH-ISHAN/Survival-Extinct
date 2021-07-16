@@ -19,12 +19,12 @@ Here, we have two cases:<br>
 Here, we have a short video to show its performance in both cases:
 1. Both are fixed:<br>
 <video width="520" height="240">
-  <source src="live_demo/survial_extint_stop_mode.wmv" type="video/wmv">
+  <source src="live_demo/survial_extint_stop_mode.mp4" type="video/mp4">
 </video>
 
 2. Both are moving:<br>
 <video width="520" height="240">
-  <source src="live_demo/survival_extint_moving_mode.wmv" type="video/wmv">
+  <source src="live_demo/survival_extint_moving_mode.mp4" type="video/mp4">
 </video>
 
 
