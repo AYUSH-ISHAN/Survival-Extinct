@@ -9,4 +9,11 @@ But here is a twist, <B>Reinforcement Learning (RL)</B> is there to help him. RL
 <B><h3>Q-LEARNING :</h3></B>
 Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state. It does not require a model of the environment (hence "model-free"), and it can handle problems with stochastic transitions and rewards without requiring adaptations (sources : <a href = "https://en.wikipedia.org/wiki/Q-learning">Wikipedia</a>).<br>
 Here, is an image to show the update rule of Q-Learning.<br><br>
-<img src="images/Q_learning.png" width = "900" height = "100">
+<img src="images/Q_learning.png" width = "900" height = "100"><br>
+<B><h3>FINAL SHOWDOWN :</h3></B>
+Getting well equipped with Q-leaning in its arsenal. Our agent started its journey to reach its destination.<br>
+Here, we have two cases:<br>
+1. Enemy and Food both are at one position
+2. Both Enemy and Food are moving
+
+Here, we have a short video to show its performance in both cases:
