@@ -9,4 +9,4 @@ But here is a twist, <B>Reinforcement Learning (RL)</B> is there to help him. RL
 <B><h3>Q-LEARNING :</h3></B>
 Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state. It does not require a model of the environment (hence "model-free"), and it can handle problems with stochastic transitions and rewards without requiring adaptations (sources : <a href = "https://en.wikipedia.org/wiki/Q-learning">Wikipedia</a>).<br>
 Here, is an image to show the update rule of Q-Learning.<br><br>
-<img src = "images/Q_Learning.png" width = "900" height = "100">
+<img src="images/Q_learning.png" width = "900" height = "100">
