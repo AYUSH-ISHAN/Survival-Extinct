@@ -21,3 +21,21 @@ Here, we have a short video to show its performance in both cases:
 <video width="520" height="240">
   <source src="live_demo/survial_extint_stop_modesurvial_extint_stop_mode.wmv" type="video/wmv">
 </video>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<B><h3>RESULTS :</h3></B>
+Here, are plots between average reward achieved over 3000 epochs versus the number of epoch.
+
+1. When both were stationary:<br>
+<img src = "images/reward_vs_episode_stopping_mode">
