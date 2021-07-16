@@ -19,9 +19,13 @@ Here, we have two cases:<br>
 Here, we have a short video to show its performance in both cases:
 1. Both are fixed:<br>
 <video width="520" height="240">
-  <source src="live_demo/survial_extint_stop_modesurvial_extint_stop_mode.wmv" type="video/wmv">
+  <source src="live_demo/survial_extint_stop_mode.wmv" type="video/wmv">
 </video>
 
+2. Both are moving:<br>
+<video width="520" height="240">
+  <source src="live_demo/survival_extint_moving_mode.wmv" type="video/wmv">
+</video>
 
 
 
@@ -37,5 +41,8 @@ Here, we have a short video to show its performance in both cases:
 <B><h3>RESULTS :</h3></B>
 Here, are plots between average reward achieved over 3000 epochs versus the number of epoch.
 
-1. When both were stationary:<br>
-<img src = "images/reward_vs_episode_stopping_mode">
+<B><h4>1. When both were stationary:</h4></B><br>
+<img src = "images/reward_vs_episode_stopping_mode.png">
+<br>
+<B><h4>2. When both were moving:</h4></B><br>
+<img src = "images/reward_vs_episode_moving_mode.png">
