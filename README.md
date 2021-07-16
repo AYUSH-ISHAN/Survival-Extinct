@@ -13,30 +13,15 @@ Here, is an image to show the update rule of Q-Learning.<br><br>
 <B><h3>FINAL SHOWDOWN :</h3></B>
 Getting well equipped with Q-leaning in its arsenal. Our agent started its journey to reach its destination.<br>
 Here, we have two cases:<br>
-1. Enemy and Food both are at one position
-2. Both Enemy and Food are moving
+<B><h4>1. Enemy and Food both are at one position</h4></B>
+<B><h4>2. Both Enemy and Food are moving</h4></B>
 
 Here, we have a short video to show its performance in both cases:
-1. Both are fixed:<br>
-<video width="520" height="240" autoplay muted>
-  <source src="live_demo/survial_extint_stop_mode.mp4" type="video/mp4">
-</video>
+<B><h4>1. Both are fixed:</h4></B><br>
+![github](https://github.com/AYUSH-ISHAN/Survival-Extinct/blob/main/live_demo/survial_extint_stop_mode.gif)
 
-2. Both are moving:<br>
-<video width="520" height="240" autoplay muted>
-  <source src="live_demo/survival_extint_moving_mode.mp4" type="video/mp4">
-</video>
-
-
-
-
-
-
-
-
-
-
-
+<B><h4>2. Both are moving:</h4></B><br>
+![github](https://github.com/AYUSH-ISHAN/Survival-Extinct/blob/main/live_demo/survival_extint_moving_mode.gif)
 
 <B><h3>RESULTS :</h3></B>
 Here, are plots between average reward achieved over 3000 epochs versus the number of epoch.
