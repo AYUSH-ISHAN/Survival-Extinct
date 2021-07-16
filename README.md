@@ -17,3 +17,7 @@ Here, we have two cases:<br>
 2. Both Enemy and Food are moving
 
 Here, we have a short video to show its performance in both cases:
+1. Both are fixed:<br>
+<video width="520" height="240">
+  <source src="live_demo/survial_extint_stop_modesurvial_extint_stop_mode.wmv" type="video/wmv">
+</video>
