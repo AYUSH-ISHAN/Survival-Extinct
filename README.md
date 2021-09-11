@@ -30,4 +30,4 @@ Here, are plots between average reward achieved over 3000 epochs versus the numb
 <img src = "images/reward_vs_episode_stopping_mode.png">
 <br>
 <B><h4>2. When both were moving:</h4></B><br>
-<img src = "images/reward_vs_episode_moving_mode.png">
+<img src = "images/reward_vs_episode_moving_mode.png"><br>
